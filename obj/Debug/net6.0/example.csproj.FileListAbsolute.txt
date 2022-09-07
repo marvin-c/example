@@ -1,0 +1,15 @@
+/home/mcjev/Documents/test/example/bin/Debug/net6.0/example
+/home/mcjev/Documents/test/example/bin/Debug/net6.0/example.deps.json
+/home/mcjev/Documents/test/example/bin/Debug/net6.0/example.runtimeconfig.json
+/home/mcjev/Documents/test/example/bin/Debug/net6.0/example.dll
+/home/mcjev/Documents/test/example/bin/Debug/net6.0/ref/example.dll
+/home/mcjev/Documents/test/example/bin/Debug/net6.0/example.pdb
+/home/mcjev/Documents/test/example/obj/Debug/net6.0/example.csproj.AssemblyReference.cache
+/home/mcjev/Documents/test/example/obj/Debug/net6.0/example.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcjev/Documents/test/example/obj/Debug/net6.0/example.AssemblyInfoInputs.cache
+/home/mcjev/Documents/test/example/obj/Debug/net6.0/example.AssemblyInfo.cs
+/home/mcjev/Documents/test/example/obj/Debug/net6.0/example.csproj.CoreCompileInputs.cache
+/home/mcjev/Documents/test/example/obj/Debug/net6.0/example.dll
+/home/mcjev/Documents/test/example/obj/Debug/net6.0/ref/example.dll
+/home/mcjev/Documents/test/example/obj/Debug/net6.0/example.pdb
+/home/mcjev/Documents/test/example/obj/Debug/net6.0/example.genruntimeconfig.cache
